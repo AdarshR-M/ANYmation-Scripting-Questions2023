@@ -28,5 +28,5 @@ ___Please fill in the fields below otherwise your submission won't be considered
 * [Blender Shortcuts](https://www.dropbox.com/s/jg4fs4i8zw5bxt7/Blender\%203.0\%20Shortcuts\%20v1.2.pdf?dl=0).
 * [Nodes 4 Noobs](https://www.youtube.com/playlist?list=PLn3ukorJv4vtnU\_TaZob7QD6Q8d9C9Ki7) : A good introductory video to introduce Nodes, Shaders etc. The first 3 videos will be more than sufficient for recruitment test.
 * [Blender Community](https://www.blender.org/community/).
-* [Sripting in Blender](https://www.youtube.com/watch?v=PPAnjnaXYYc&list=TLPQMTUwNTIwMjH5fBOrp7n1lQ).
+* [Scripting in Blender](https://www.youtube.com/watch?v=PPAnjnaXYYc&list=TLPQMTUwNTIwMjH5fBOrp7n1lQ).
 * [Pyhton libraries in blender](https://www.youtube.com/watch?v=oropR7wp4Ls). **Not Necessary**. Do this only if you want to use ```Numpy``` etc in blender. Just using the ```math``` [link](https://docs.python.org/3/library/math.html) module should be sufficient for this assignment.
