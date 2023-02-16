@@ -13,7 +13,7 @@ ___Please fill in the fields below otherwise your submission won't be considered
 
 ## Instructions
 
-* There are two assignments ```ScriptingRecruitments_Coding.pdf``` and ```ScriptingRecruitments_Animation.pdf```. **You have to attempt both**. ``ScriptingRecruitments_Coding.pdf``` is based on coding in ```python``` and ```ScriptingRecruitments_Animation.pdf``` is based on [Blender](https://www.blender.org/)
+* There are two assignments ```ScriptingRecruitments_Coding.pdf``` and ```ScriptingRecruitments_Animation.pdf```. **You have to attempt both**. ```ScriptingRecruitments_Coding.pdf``` is based on coding in ```python``` and ```ScriptingRecruitments_Animation.pdf``` is based on [Blender](https://www.blender.org/)
 * This ```ScriptingRecruitments_Coding.pdf``` has 3 questions. The points corresponding to each question/sub-part are given in the right side margin of the problem statement. The assignment is for a maximum of **150 p**.
 * You are free to use the internet (obviously) and any other resources.
 * Please use [jupyter](https://jupyter.org/install) notebooks or Google [colab](https://colab.research.google.com/) (```.ipynb``` extension) for the questions in ```ScriptingRecruitments_Coding.pdf```. **Please explain the steps and the chosen variable names clearly**. Name the files ```Q<question number>_Coding.ipynb```.
