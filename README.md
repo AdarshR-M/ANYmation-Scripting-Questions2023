@@ -25,3 +25,4 @@ ___Please fill in the fields below otherwise your submission won't be considered
 
 * [Blender Tutorials](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U). Just Levels 1 and 2 are required for the assignment.
 * [Sripting in Blender](https://www.youtube.com/watch?v=PPAnjnaXYYc&list=TLPQMTUwNTIwMjH5fBOrp7n1lQ).
+* [Pyhton libraries in blender](https://www.youtube.com/watch?v=oropR7wp4Ls). **Not Necessary**. Do this only if you want to use ```Numpy``` etc in blender. Just using the ```math``` [link](https://docs.python.org/3/library/math.html) module should be sufficient for this assignment.
