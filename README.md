@@ -23,6 +23,7 @@ ___Please fill in the fields below otherwise your submission won't be considered
 
 ## Resources
 
+* [Python tutorials](https://github.com/krittikaiitb/tutorials/). Only tutorials 1, 2, 4 and 7 are relevant.
 * [Blender Tutorials](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U). Just Levels 1 and 2 are required for the assignment. **Essential**
 * [Scripting in Blender](https://www.youtube.com/watch?v=PPAnjnaXYYc&list=TLPQMTUwNTIwMjH5fBOrp7n1lQ). **Essential**
 * Link to some [donut renders](https://www.reddit.com/r/BlenderDoughnuts/).
