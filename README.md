@@ -5,7 +5,7 @@ All the blue colored text in the problem statements have links. You won't be abl
 
 ## Information
 
-___Please fill in the fields below otherwise your submission won't be considered___. (Click on the icon that looks like a pen, modify file, press the commit changes button at the bottom of the page)
+___Please fill in the fields below otherwise your submission won't be considered___. (Click on the icon that looks like a pen (upper right), modify file, press the commit changes button at the bottom of the page)
 
 **Name** : <br>
 **Roll Number** : <br>
