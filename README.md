@@ -13,7 +13,7 @@ ___Please fill in the fields below otherwise your submission won't be considered
 
 ## Instructions
 
-* There are 4 questions in the [problem statement](https://github.com/AdarshR-M/ANYmation-Scripting-Questions2023/blob/main/ScriptingRecruitments.pdf) ```ScriptingRecruitments.pdf``` worth **300 p**. Questions 1 and 2 are based on coding in python, 3 animation in blender and 4 scripting in blender.
+* There are 4 questions in the [problem statement](ScriptingRecruitments.pdf) ```ScriptingRecruitments.pdf``` worth **300 p**. Questions 1 and 2 are based on coding in python, 3 animation in blender and 4 scripting in blender.
 * You are free to use the internet (obviously) and any other resources.
 * Please use [jupyter](https://jupyter.org/install) notebooks or Google [colab](https://colab.research.google.com/) (```.ipynb``` extension) for questions 1 and 2. **Please explain the steps and the chosen variable names clearly**. Name the files ```Q<question number>.ipynb```.
 * There is a folder dedicated for each of the questions. Put all the files related to a question in its folder. There is a ```README.md``` in each of the folders. Put any comments (about the question) or assumptions that you have made in the corresponding ```README.md``` (It is not necessary to mention anything there - you can leave it blank). 
